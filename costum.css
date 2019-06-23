@@ -1,0 +1,79 @@
+.top-nav-collapse {
+  background-color: black !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+  background: transparent !important;
+}
+
+@media (max-width: 991px) {
+  .navbar:not(.top-nav-collapse) {
+    background: #78909c !important;
+  }
+}
+
+h1 {
+  letter-spacing: 8px;
+}
+
+h5 {
+  letter-spacing: 3px;
+}
+
+.hr-light {
+  border-top: 3px solid #fff;
+  width: 80px;
+}
+
+
+
+.custam1 {
+ padding:0;
+}
+
+.back_view {
+  height: 100%
+}
+
+.top_icon {
+  width: 15%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.card-texts {
+  padding-bottom: 40px;
+}
+
+
+.card-body {
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+
+.col-md-3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.col-md-9 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.menu {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.navbar {
+  background-color: 'black';
+}
+
+li {
+  color: 'black';
+}
